@@ -1,12 +1,72 @@
-
-Figura: Square, 
-Info: point(7;8), length - 12;
-
-Figura: Rectangle, 
-Info: point(5;6), length - 8; width - 5;
-
-Figura: Circle, 
-Info: point(7;7), radius - 9;
-
-Figura: Ellipse, 
-Info: point(5;5), length - 9; width - 6;
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+Ivasyk Bulkin trinolyatrulyalya Python11
+Grigoiy Terkin +387415874165 Python21
+Anna Chechetkina +04478451235 C++14
+Svetlana Bulkina trinolyatrulyalya2 Python11
+Anatloiy Fedorov 0991234756 C++17
+Nikolay Ivashenko 09878909990 JavaScript
+Alexsandr Vetrov 087897789888 SMM
+Georg Mamaev 678766778877 HTML
+Lubov Nikolaeva 876789876889 CSS
+student Ivasyk Bulkin trinolyatrulyalya Python11
+student Grigoiy Terkin +387415874165 Python21
+student Anna Chechetkina +04478451235 C++14
+student Svetlana Bulkina trinolyatrulyalya2 Python11
+student Anatloiy Fedorov 0991234756 C++17
+teacher Nikolay Ivashenko 09878909990 JavaScript
+teacher Alexsandr Vetrov 087897789888 SMM
+teacher Georg Mamaev 678766778877 HTML
+teacher Lubov Nikolaeva 876789876889 CSS
+student Ivasyk Bulkin trinolyatrulyalya Python11
+student Grigoiy Terkin +387415874165 Python21
+student Anna Chechetkina +04478451235 C++14
+student Svetlana Bulkina trinolyatrulyalya2 Python11
+student Anatloiy Fedorov 0991234756 C++17
+teacher Nikolay Ivashenko 09878909990 JavaScript
+teacher Alexsandr Vetrov 087897789888 SMM
+teacher Georg Mamaev 678766778877 HTML
+teacher Lubov Nikolaeva 876789876889 CSS
