@@ -1,0 +1,56 @@
+[
+  {
+    "firstname": "Ivasyk",
+    "lastname": "Bulkin",
+    "phone": "trinolyatrulyalya",
+    "group": "Python11"
+  },
+  {
+    "firstname": "Grigoiy",
+    "lastname": "Terkin",
+    "phone": "+387415874165",
+    "group": "Python21"
+  },
+  {
+    "firstname": "Anna",
+    "lastname": "Chechetkina",
+    "phone": "+04478451235",
+    "group": "C++14"
+  },
+  {
+    "firstname": "Svetlana",
+    "lastname": "Bulkina",
+    "phone": "trinolyatrulyalya2",
+    "group": "Python11"
+  },
+  {
+    "firstname": "Anatloiy",
+    "lastname": "Fedorov",
+    "phone": "0991234756",
+    "group": "C++17"
+  },
+  {
+    "firstname": "Nikolay",
+    "lastname": "Ivashenko",
+    "phone": "09878909990",
+    "group": "JavaScript"
+  },
+  {
+    "firstname": "Alexsandr",
+    "lastname": "Vetrov",
+    "phone": "087897789888",
+    "group": "SMM"
+  },
+  {
+    "firstname": "Georg",
+    "lastname": "Mamaev",
+    "phone": "678766778877",
+    "group": "HTML"
+  },
+  {
+    "firstname": "Lubov",
+    "lastname": "Nikolaeva",
+    "phone": "876789876889",
+    "group": "CSS"
+  }
+]
